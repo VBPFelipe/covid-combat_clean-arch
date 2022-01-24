@@ -1,0 +1,10 @@
+br/com/vbpfelipe/response/HospitalResponse.class
+br/com/vbpfelipe/response/LocalizacaoResponse$LocalizacaoResponseBuilder.class
+br/com/vbpfelipe/response/HospitalResponse$HospitalResponseBuilder.class
+br/com/vbpfelipe/response/LocalizacaoResponse.class
+br/com/vbpfelipe/controller/HospitalController.class
+br/com/vbpfelipe/request/LocalizacaoRequest$LocalizacaoRequestBuilder.class
+br/com/vbpfelipe/request/HospitalRequest$HospitalRequestBuilder.class
+br/com/vbpfelipe/request/LocalizacaoRequest.class
+br/com/vbpfelipe/controller/Resource.class
+br/com/vbpfelipe/request/HospitalRequest.class

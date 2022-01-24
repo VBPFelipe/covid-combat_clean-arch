@@ -1,0 +1,9 @@
+/home/felipe-uniesp/Projetos/Estudos/UNIESP/Design_Arquitetura_II/covid_combat/presenters/src/main/java/br/com/vbpfelipe/domain/Item.java
+/home/felipe-uniesp/Projetos/Estudos/UNIESP/Design_Arquitetura_II/covid_combat/presenters/src/main/java/br/com/vbpfelipe/domain/TipoDoItem.java
+/home/felipe-uniesp/Projetos/Estudos/UNIESP/Design_Arquitetura_II/covid_combat/presenters/src/main/java/br/com/vbpfelipe/repository/RepositoryPresenter.java
+/home/felipe-uniesp/Projetos/Estudos/UNIESP/Design_Arquitetura_II/covid_combat/presenters/src/main/java/br/com/vbpfelipe/helper/GerenciaItem.java
+/home/felipe-uniesp/Projetos/Estudos/UNIESP/Design_Arquitetura_II/covid_combat/presenters/src/main/java/br/com/vbpfelipe/domain/HospitalEntity.java
+/home/felipe-uniesp/Projetos/Estudos/UNIESP/Design_Arquitetura_II/covid_combat/presenters/src/main/java/br/com/vbpfelipe/domain/LocalizacaoEntity.java
+/home/felipe-uniesp/Projetos/Estudos/UNIESP/Design_Arquitetura_II/covid_combat/presenters/src/main/java/br/com/vbpfelipe/OutputPortImpl.java
+/home/felipe-uniesp/Projetos/Estudos/UNIESP/Design_Arquitetura_II/covid_combat/presenters/src/main/java/br/com/vbpfelipe/domain/InventarioEntity.java
+/home/felipe-uniesp/Projetos/Estudos/UNIESP/Design_Arquitetura_II/covid_combat/presenters/src/main/java/br/com/vbpfelipe/domain/PersistentObject.java

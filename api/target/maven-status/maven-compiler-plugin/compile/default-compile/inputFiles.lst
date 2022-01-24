@@ -1,0 +1,6 @@
+/home/felipe-uniesp/Projetos/Estudos/UNIESP/Design_Arquitetura_II/covid_combat/api/src/main/java/br/com/vbpfelipe/controller/Resource.java
+/home/felipe-uniesp/Projetos/Estudos/UNIESP/Design_Arquitetura_II/covid_combat/api/src/main/java/br/com/vbpfelipe/request/HospitalRequest.java
+/home/felipe-uniesp/Projetos/Estudos/UNIESP/Design_Arquitetura_II/covid_combat/api/src/main/java/br/com/vbpfelipe/response/LocalizacaoResponse.java
+/home/felipe-uniesp/Projetos/Estudos/UNIESP/Design_Arquitetura_II/covid_combat/api/src/main/java/br/com/vbpfelipe/controller/HospitalController.java
+/home/felipe-uniesp/Projetos/Estudos/UNIESP/Design_Arquitetura_II/covid_combat/api/src/main/java/br/com/vbpfelipe/request/LocalizacaoRequest.java
+/home/felipe-uniesp/Projetos/Estudos/UNIESP/Design_Arquitetura_II/covid_combat/api/src/main/java/br/com/vbpfelipe/response/HospitalResponse.java

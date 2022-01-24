@@ -1,0 +1,7 @@
+/home/felipe-uniesp/Projetos/Estudos/UNIESP/Design_Arquitetura_II/covid_combat/core/src/main/java/br/com/vbpfelipe/usecase/InputPortImpl.java
+/home/felipe-uniesp/Projetos/Estudos/UNIESP/Design_Arquitetura_II/covid_combat/core/src/main/java/br/com/vbpfelipe/ports/data/output/LocalizacaoOutputPort.java
+/home/felipe-uniesp/Projetos/Estudos/UNIESP/Design_Arquitetura_II/covid_combat/core/src/main/java/br/com/vbpfelipe/ports/data/input/LocalizacaoInputPort.java
+/home/felipe-uniesp/Projetos/Estudos/UNIESP/Design_Arquitetura_II/covid_combat/core/src/main/java/br/com/vbpfelipe/ports/data/output/HospitalOutputPort.java
+/home/felipe-uniesp/Projetos/Estudos/UNIESP/Design_Arquitetura_II/covid_combat/core/src/main/java/br/com/vbpfelipe/ports/output/OutputPort.java
+/home/felipe-uniesp/Projetos/Estudos/UNIESP/Design_Arquitetura_II/covid_combat/core/src/main/java/br/com/vbpfelipe/ports/input/InputPort.java
+/home/felipe-uniesp/Projetos/Estudos/UNIESP/Design_Arquitetura_II/covid_combat/core/src/main/java/br/com/vbpfelipe/ports/data/input/HospitalInputPort.java
